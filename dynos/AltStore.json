@@ -3,9 +3,8 @@
   "subtitle": "A source for all of my apps",
   "description": "Hello! I just do this for fun :) Thanks for trying out my App!!",
   "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
-  "website": "",
-  "patreonURL": "",
   "tintColor": "#5346ef",
+  "identifier": "dev.hklm.source",
   "featuredApps": [
     "dev.hklm.Dynos"
   ],
@@ -40,6 +39,5 @@
       },
       "patreon": {}
     }
-  ],
-  "news": []
+  ]
 }
