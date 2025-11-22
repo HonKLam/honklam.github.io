@@ -27,10 +27,9 @@
           "downloadURL": "https://github.com/HonKLam/Dynos/releases/download/v0.1.0-alpha/Dynos-v0.1.0-alpha.ipa",
           "size": 9700000,
           "version": "v0.1.0-alpha",
-          "buildVersion": null,
+          "buildVersion": 1,
           "date": "2025-11-21T22:37:00+01:00",
           "localizedDescription": "First version of Dynos!",
-          "minOSVersion": null
         }
       ],
       "appPermissions": {
