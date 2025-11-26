@@ -3,8 +3,8 @@
   "subtitle": "A source for all of my apps",
   "description": "Hello! I just do this for fun :) Thanks for trying out my App!!",
   "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://altstudio.app",
   "tintColor": "#5346ef",
-  "identifier": "dev.hklm.source",
   "featuredApps": [
     "dev.hklm.Dynos"
   ],
@@ -15,27 +15,32 @@
       "developerName": "HKLM",
       "subtitle": "Third-Party App for @usememos for iOS & Android",
       "localizedDescription": "Dynos is a third-party app for Memos. Create, Edit, Delete and View your Memos everywhere! (Even Offline!) \n\nDynos requires a selfhosted instance of Memos. Please refer to the documentation for more information! Keep in mind that a HTTP connection to your Memos-Instance can be intercepted by others! \n\nDisclaimer: Dynos was developed as a personal project and partly for learning purposes. It is currently in a very bare bones state and full of bugs. Feel free to contribute on GitHub! <3",
-      "iconURL": "https://i.imgur.com/cy22whi.jpeg",
+      "iconURL": "https://github.com/HonKLam/Dynos/blob/main/src/assets/images/icon.png?raw=true",
       "tintColor": "#797985",
       "category": "lifestyle",
       "screenshots": [
-        "https://i.imgur.com/oURWFez.png"
+        "https://private-user-images.githubusercontent.com/62069795/517502976-67ddd137-07c5-4074-94f8-201be990fd67.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQxODg4OTAsIm5iZiI6MTc2NDE4ODU5MCwicGF0aCI6Ii82MjA2OTc5NS81MTc1MDI5NzYtNjdkZGQxMzctMDdjNS00MDc0LTk0ZjgtMjAxYmU5OTBmZDY3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI2VDIwMjMxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQwZDhhYTE5NGJjYjhkZTAyODE0OGQyYTIyZjE5YTZmOWUxMTYyMDU2OTE5MmRlZTg0NDYwZmE2MDQ2NjJlMWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.MZ-_qQ4hL2QFWAZYG2fu02KGLP-my6OEz3IQmXbWu_U"
       ],
       "versions": [
         {
-          "downloadURL": "https://github.com/HonKLam/Dynos/releases/download/v0.1.0-alpha/Dynos-v0.1.0-alpha.ipa",
-          "size": 9700000,
-          "version": "0.1.0-alpha",
+          "downloadURL": "https://github.com/HonKLam/Dynos/releases/download/v0.1.4/Dynos-v0.1.4.ipa",
+          "size": 11200000,
+          "version": "v0.1.4",
           "buildVersion": "1",
+          "date": "2025-11-26T20:16:00+01:00",
+          "localizedDescription": "- Add Icon\n- Add local pipeline for faster releases",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.1.0-alpha",
           "date": "2025-11-21T22:37:00+01:00",
           "localizedDescription": "First version of Dynos!",
+          "downloadURL": "https://github.com/HonKLam/Dynos/releases/download/v0.1.0-alpha/Dynos-v0.1.0-alpha.ipa",
+          "size": 9700000,
+          "buildVersion": "1",
           "minOSVersion": "15.0"
         }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      }
+      ]
     }
   ]
 }
